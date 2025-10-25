@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Docker 🐋 | My SQL🐬<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Docker 🐋 | My SQL🐬<br></p>
 
 ###
 
