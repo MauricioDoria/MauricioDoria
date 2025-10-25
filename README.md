@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Mauricio Doria and I am a Software Engineer/API Developer</p>
+<p align="left">🇧🇷<br>My name is Mauricio Doria and I am a Software Engineer/API Developer.<br>I'm Brazilian and I'm 21 years old. I'm a developer who loves building things with PHP, Python, Laravel and Docker.<br>I like solving problems and learning new things every day - that's what programming is all about: trying, fixing and growing. <br>🇧🇷</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Docker 🐋 | My SQL🐬<br></p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Docker 🐋 | My SQL🐬<br>🎯 Goals: It's about achieving financial stability 💸 while doing what I love: working with technology and bringing ideas to life through code.👨🏽‍💻🐛</p>
 
 ###
 
